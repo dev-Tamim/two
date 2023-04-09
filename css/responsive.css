@@ -1,0 +1,466 @@
+@media (max-width: 575.98px) { 
+    .nav_menu {
+        margin-top: 0px !important;
+    }
+    .slide_item {
+        padding: 200px 0 !important;
+    }
+    .banner_text {
+        top: 111px !important;
+        right: 4px !important;
+    }
+    .banner_text h1 {
+        font-size: 41px !important;
+    }
+    .banner_text h2 {
+        font-size: 26px !important;
+        padding-bottom: 10px !important;
+    }
+    .banner_text p {
+        font-size: 12px !important;
+        padding-top: 9px !important;
+    }
+    .banner_button a {
+        padding: 5px 14px 12px 56px !important;
+        border-radius: 5px !important;
+        margin: 0 5px !important;
+        margin-top: 25px !important;
+        -webkit-border-radius: 5px !important;
+        -moz-border-radius: 5px !important;
+        -ms-border-radius: 5px !important;
+        -o-border-radius: 5px !important;
+}
+    .banner_button a h4 {
+        font-size: 13px !important;
+    }
+    .banner_button a h3 {
+        font-size: 15px !important;
+    }
+    #banner .slick-dots li {
+        width: 12px !important;
+        height: 12px !important;
+    }
+    .banner_slide .slick-dots li button {
+        width: 5px !important;
+        height: 5px !important;
+        
+        margin: 2px !important;
+    }
+    .banner_slide .slick-dots{
+        right: 0% !important;
+    }
+    #banner .home {
+        right: 0% !important;
+        top: 140px !important;
+        font-size: 10px;
+    }
+    #about p {
+        font-size: 11px !important;
+    }
+    .extra i {
+        font-size: 15px !important;
+    }
+    #feature h3 {
+        font-size: 10px !important;
+    }
+    #feature p {
+        font-size: 7px !important;
+    }
+    .extra {
+        padding: 4px 0 !important;
+        margin: -4px 0 !important;
+        padding-left: 25px !important;
+    }
+    .extra::after {
+        width: 86%;
+    }
+    .butstart {
+        padding-top: 10px !important;
+    }
+    .header h2 {
+        font-size: 18px !important;
+    }
+    .slick-slide img {
+        padding: 0 5px !important;
+    }
+    #screenshots {
+        padding:  10px !important;
+    }
+    .header h2 {
+        font-size: 18px;
+    }
+    .video-image {
+        padding: 95px 0 !important;
+        margin-bottom: 20px !important;
+    }
+    .pricing_button {
+        margin-bottom: 20px;
+    }
+    .team_inner:hover{
+        top: -30px !important;
+        left: 0;
+        width: 100%;
+    }
+    .team_text {
+        padding: 10px 10px !important;
+    }
+    .team_text p {
+        font-size: 10px !important;
+        line-height: 18px !important;
+    }
+    .team_text h3 {
+        font-size: 12px !important;
+        line-height: 19px !important;
+    }
+    .team_icon {
+        width: 70%;
+        height: 20%;
+        transform: translate(-50%,-50%);
+        -webkit-transform: translate(-50%,-50%);
+        -moz-transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+        -o-transform: translate(-50%,-50%);
+}
+    .team_icon i {
+        width: 30px !important;
+        height: 30px !important;
+        line-height: 30px !important;
+        margin: 0 !important;
+    }
+    .team_item {
+        margin: 59px 0 40px 0 !important;
+        
+    }
+    .team_slide {
+         padding: 0 !important;
+    }
+    .user_text p{
+        font-size: 10px;
+    }
+    .user_text {
+        padding: 16px 50px 7px 50px !important;
+    }
+    .user_text h3 {
+        font-size: 10px;
+    }
+    .slick-slide img {
+        padding: 20px  !important;
+    }
+    #user {
+        padding: 0 0 20px 0 !important;
+    }
+ }
+
+ @media (min-width: 576px) and (max-width:767.98px) { 
+    .nav_menu {
+        margin-top: 0px !important;
+    }
+    .slide_item {
+        padding: 200px 0 !important;
+    }
+    .banner_text {
+        top: 95px !important;
+    }
+    .banner_text h1 {
+        font-size: 39px !important;
+    }
+    .banner_text h2 {
+        font-size: 23px  !important;
+        padding-bottom: 8px !important;
+    }
+    .banner_text p {
+        font-size: 12px !important;
+        padding-top: 6px !important;
+    }
+    .banner_button a {
+        padding: 6px 16px 6px 45px !important;
+        margin-top: 18px !important;
+    }
+    .banner_button a i {
+        top: 9px !important;
+        left: 13px !important;
+        font-size: 25px !important;
+    }
+    .banner_button a h4 {
+        font-size: 13px !important;
+    }
+    .banner_button a h3 {
+        font-size: 15px !important;
+    }
+    #banner .home {
+        top: 15% !important;
+    }
+    #about p {
+        padding-top: 15px !important;
+        font-size: 10px !important;
+    }
+    #about {
+        padding: 35px 0 !important;
+    }
+    .header h2 {
+        font-size: 16px !important;
+    }
+    #feature h3 {
+        font-size: 15px !important;
+    }
+    #feature p {
+        font-size: 11px !important;
+    }
+    #feature p {
+        font-size: 9px !important;
+    }
+    .extra i {
+        top: 26% !important;
+        font-size: 14px !important;
+    }
+    #feature h3 {
+        font-size: 9px !important;
+    }
+    .extra {
+        padding: 10px 0 !important;
+        padding-left: 20px !important;
+        margin: -9px 0 !important;
+    }
+    .butstart {
+        padding-top: 0px !important;
+    }
+    #screenshots {
+        padding: 25px 0 !important;
+    }
+    .video-image {
+        padding: 133px 0 !important;
+        margin-bottom: 20px !important;
+    }
+    .pricing_bottom {
+        padding: 22px 0  !important;
+    }
+    .pricing_cercle {
+        width: 90px !important;
+        height: 90px !important;
+        margin: 10px auto !important;
+    }
+    .pricing_header h3 {
+        padding: 9px 0 !important; 
+        font-size: 11px !important;
+    }
+    .pricing_bottom p {
+        font-size: 11px !important;
+        line-height: 22px !important;
+    }
+    .pricing_button a {
+        bottom: -30px !important;
+        font-size: 12px !important;
+        padding: 0 !important;
+
+    }
+    .pricing_cercle h2 span {
+        font-size: 13px !important;
+    }
+    .pricing_cercle h2 {
+        font-size: 31px !important;
+    } 
+    .pricing_cercle p {
+        font-size: 12px !important;
+    } 
+    .team_inner:hover{
+        top: -30px !important;
+        left: 0;
+        width: 100%;
+    }
+    .team_text {
+        padding: 10px 10px !important;
+    }
+    .team_text p {
+        font-size: 10px !important;
+        line-height: 18px !important;
+    }
+    .team_text h3 {
+        font-size: 12px !important;
+        line-height: 19px !important;
+    }
+    .team_icon {
+        width: 70%;
+        height: 20%;
+        transform: translate(-50%,-50%);
+        -webkit-transform: translate(-50%,-50%);
+        -moz-transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+        -o-transform: translate(-50%,-50%);
+}
+    .team_icon i {
+        width: 30px !important;
+        height: 30px !important;
+        line-height: 30px !important;
+        margin: 0 !important;
+    }
+    .team_item {
+        margin: 59px 0 40px 0 !important;
+        
+    }
+    .team_slide {
+         padding: 0 !important;
+    }
+    .user_text {
+        padding: 16px 50px 7px 50px !important;
+    }
+    .user_text h3 {
+        font-size: 10px !important;
+    }
+    .slick-slide img {
+        padding: 20px  !important;
+    }
+    #user {
+        padding: 0 0 20px 0 !important;
+    }
+
+
+
+
+  }
+  @media (min-width: 768px) and (max-width: 991.98px){
+    .slide_item {
+        padding: 250px 0 !important;
+    }
+    .nav_menu {
+        margin-top: 0px !important;
+    }
+    .team_icon i {
+        width: 25px !important;
+        height: 25px !important;
+        line-height: 25px !important;
+        margin:0 2px !important;
+        font-size: 15px;
+    }
+    .team_text {
+        padding: 4px 15px !important;
+    }
+    .team_text h3 {
+        font-size: 14px !important;
+    }
+    .team_text p {
+        font-size: 12px !important;
+        line-height: 18px !important;
+    }
+    .team_inner:hover{
+        top: -30px !important;
+        left: 0;
+        width: 100%;
+    }
+    .team_item {
+        margin: 59px 0 40px 0 !important;
+        
+    }
+    .bg{
+        top: 0px !important;
+}
+
+.banner_text h1 {
+	font-size: 41px !important;
+}
+.banner_text h2 {
+	font-size: 24px !important;
+	padding-bottom: 20px !important;
+}
+.banner_text p {
+	font-size: 13px !important;
+}
+#banner .home {
+	top: 20% !important;
+}
+.banner_text {
+	top: 140px !important;
+}
+#about p {
+	padding-top: 10px !important;
+	font-size: 14px !important;
+}
+.extra {
+	padding: 10px 0 !important;
+	padding-left: 33px !important;
+	margin: 0px !important;
+}
+.extra i {
+	font-size: 25px !important;
+}
+#feature h3 {
+	font-size: 17px !important;
+}
+#feature p {
+	font-size: 12px !important;
+}
+.butstart {
+	padding-top: 0 !important;
+}
+.video-image {
+	padding: 150px 0 !important;
+	margin-bottom: 25px !important;
+}
+.pricing_bottom {
+	padding: 23px 0 !important;
+}
+.pricing_button a {
+	bottom: -30px !important;
+	font-size: 15px !important;
+	 padding: 0 5px !important;
+}
+.pricing_header h3 {
+	padding: 20px 0 !important;
+	font-size: 15px !important;
+}
+
+
+
+  }
+  @media (min-width: 992px) and (max-width: 1199.98px) { 
+    nav ul li {
+        padding: 0 12px !important;
+    }
+    #banner .home {
+        top: 29% !important;
+    }
+    .banner_button a h3 {
+        font-size: 17px !important;
+    }
+    .nav_menu {
+        margin-top: 10px !important;
+    }
+    .team_icon i {
+        width: 35px !important;
+        height: 35px !important;
+        line-height: 35px !important;
+    }
+    .team_text {
+        padding: 4px 36px !important;
+    }
+    .team_text h3 {
+        font-size: 14px !important;
+    }
+    .team_text p {
+        font-size: 12px !important;
+        line-height: 18px !important;
+    }
+    .team_inner:hover{
+        top: -30px !important;
+        left: 0;
+        width: 100%;
+    }
+    .team_item {
+        margin: 59px 0 40px 0 !important;
+        
+    }
+
+   }
+   @media (min-width: 1200px) and (max-width: 1399.98px) { 
+    #banner .home {
+        top: 29% !important;
+    }
+   }
+   @media (min-width: 1400px) { 
+    .banner_slide .slick-dots {
+        right:1% !important;
+    }
+    #banner .home {
+        right: 1% !important;
+        top: 32% !important;
+    }
+    }
